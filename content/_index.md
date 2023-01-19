@@ -31,7 +31,7 @@ sections:
           date_start: '2022-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              研究方向:
 
               * 计算机视觉
               * 无人机视角多模态目标检测
