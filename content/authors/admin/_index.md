@@ -61,5 +61,5 @@ email: 'liangyao@hhu.edu.cn'
 highlight_name: true
 ---
 
-Yao Liang is studying for a master's degree in the School of Computer and Information, Department of Information Science, Hohai University. His research interests include deep learning, UAV object detection, face detection and recognition.
+姚亮正在河海大学信息学部计算机与信息学院攻读硕士学位。他的研究方向包括深度学习、无人机目标检测、人脸检测和识别。
 {style="text-align: justify;"}
