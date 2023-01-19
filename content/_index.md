@@ -48,7 +48,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -71,7 +71,7 @@ sections:
           organization: MCM
           organization_url: https://www.contest.comap.com/undergraduate/contests/mcm
           title: '美国大学生数学建模Meritorious Winner'
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: ''
         - date_end: '2020-05-01'
           date_start: '2020-03-01'
           description: ''
@@ -79,6 +79,18 @@ sections:
           organization_url: https://www.ccf.org.cn/
           title: '科技战疫·数据公益挑战赛一阶段优胜奖&前十名'
           url: ''
+        - date_end: ''
+          date_start: '2022-11-01'
+          description: ''
+          organization: 江苏计算机学会&计算机工程与网络国际会议(CENet2022)
+          title: '“远见杯”元智能数据挑战大赛二等奖'
+          url: ''
+        - date_end: ''
+          date_start: '2021-5-01'
+          description: ''
+          organization: 江苏省团委
+          title: '第十七届“挑战杯”江苏省二等奖'
+          url: ''            
     design:
       columns: '2'
   - block: collection
