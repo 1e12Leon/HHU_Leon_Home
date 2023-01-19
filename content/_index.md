@@ -105,11 +105,11 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: liangyao@hhu.edu.cn
       address:
-        地址: 江苏省南京市佛城西路8号河海大学江宁校区计算机与信息学院
-        邮编: '211100'
+        street: 江苏省南京市佛城西路8号河海大学江宁校区计算机与信息学院
+        postcode: '211100'
+        country: China
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - '10:00 to 20:00'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
