@@ -73,31 +73,30 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
+            items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-08'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: 工信部、教育部、江苏省人民政府
+          organization_url: http://www.cnsoftbei.com/
+          title: '第十一届中国软件杯全国三等奖'
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          date_start: '2021-05'
+          description: ''
+          organization: MCM
+          organization_url: https://www.contest.comap.com/undergraduate/contests/mcm
+          title: '美国大学生数学建模Meritorious Winner'
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          organization: 中国计算机学会
+          organization_url: https://www.ccf.org.cn/
+          title: '科技战疫·数据公益挑战赛一阶段优胜奖&前十名'
     design:
       columns: '2'
   - block: collection
