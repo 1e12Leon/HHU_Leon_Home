@@ -82,14 +82,14 @@ sections:
         - date_end: ''
           date_start: '2022-11-01'
           description: ''
-          organization: 江苏计算机学会&计算机工程与网络国际会议(CENet2022)
-          title: '“远见杯”元智能数据挑战大赛二等奖'
+          organization: 江苏计算机学会&计算机工程与网络国际会议
+          title: '远见杯元智能数据挑战大赛二等奖'
           url: ''
         - date_end: ''
           date_start: '2021-5-01'
           description: ''
           organization: 江苏省团委
-          title: '第十七届“挑战杯”江苏省二等奖'
+          title: '第十七届挑战杯江苏省二等奖'
           url: ''            
     design:
       columns: '2'
