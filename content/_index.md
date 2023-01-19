@@ -74,11 +74,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2022-08'
+          date_start: '2022-08-01'
           description: ''
-          organization: 工信部、教育部、江苏省人民政府
+          organization: 工信部&教育部
           organization_url: http://www.cnsoftbei.com/
           title: 第十一届中国软件杯全国三等奖
           url: ''
