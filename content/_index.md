@@ -42,23 +42,25 @@ sections:
       items:
         - title: 硕士
           company: 河海大学
-          company_url: https://www.hhu.edu.cn/
-          location: 中国南京
-          date_start: '2022-09-01'
-          date_end: '2025-06'
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
-              * 计算机视觉
-              * 无人机视角多模态目标检测
-              * 无人机视角人脸检测与识别
-        - title: 学士
-          company: 河海大学
-          company_url: https://www.hhu.edu.cn/
-          location: 中国南京
-          date_start: '2018-09-01'
-          date_end: '2022-07-01'
-          description: 计算机科学与技术
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
