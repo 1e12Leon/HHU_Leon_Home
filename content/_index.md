@@ -42,10 +42,9 @@ sections:
       items:
         - title: 硕士
           company: 河海大学
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_url: https://www.hhu.edu.cn/
+          location: 中国南京
+          date_start: '2022-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
