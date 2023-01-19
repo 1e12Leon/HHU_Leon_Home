@@ -66,4 +66,4 @@ highlight_name: true
 在研课题：复杂背景下无人机多模态目标检测与跟踪关键技术研究；多场景典型目标轻量化感知技术；
 
 完结课题：基于无人机的河道智能巡检系统；无人机视角下轻量型人脸检测与识别研究；
-{style="text-align: justify;"}
+{style="text-align: left;"}
