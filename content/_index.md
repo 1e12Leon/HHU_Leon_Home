@@ -12,7 +12,22 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Photography
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -25,25 +40,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 硕士
-          company: 河海大学
-          company_url: https://www.hhu.edu.cn/
-          location: 中国南京
-          date_start: '2022-09-01'
-          date_end: '2025-06'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
-              * 计算机视觉
-              * 无人机视角多模态目标检测
-              * 无人机视角人脸检测与识别
-        - title: 学士
-          company: 河海大学
-          company_url: https://www.hhu.edu.cn/
-          location: 中国南京
-          date_start: '2018-09-01'
-          date_end: '2022-07-01'
-          description: 计算机科学与技术
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -61,27 +78,27 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2022-08'
+          date_start: '2021-01-25'
           description: ''
-          organization: 工信部、教育部、江苏省人民政府
-          organization_url: http://www.cnsoftbei.com/
-          title: '第十一届中国软件杯全国三等奖'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-05'
-          description: ''
-          organization: MCM
-          organization_url: https://www.contest.comap.com/undergraduate/contests/mcm
-          title: '美国大学生数学建模Meritorious Winner'
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: 中国计算机学会
-          organization_url: https://www.ccf.org.cn/
-          title: '科技战疫·数据公益挑战赛一阶段优胜奖&前十名'
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
           url: ''
     design:
       columns: '2'
