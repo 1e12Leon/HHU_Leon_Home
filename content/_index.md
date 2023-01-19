@@ -49,12 +49,12 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * 计算机视觉
+              * 无人机视角多模态目标检测
+              * 无人机视角人脸检测与识别
+        - title: 学士
+          company: 河海大学
+          company_url: https://www.hhu.edu.cn/
           company_logo: org-x
           location: California
           date_start: '2016-01-01'
