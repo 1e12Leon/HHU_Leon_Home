@@ -73,7 +73,7 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-            items:
+      items:
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2022-08'
