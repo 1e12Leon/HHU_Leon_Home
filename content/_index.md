@@ -55,11 +55,10 @@ sections:
         - title: 学士
           company: 河海大学
           company_url: https://www.hhu.edu.cn/
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: 中国南京
+          date_start: '2018-09-01'
+          date_end: '2022-07-01'
+          description: 计算机科学与技术
     design:
       columns: '2'
   - block: accomplishments
