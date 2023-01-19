@@ -80,7 +80,7 @@ sections:
           description: ''
           organization: 工信部、教育部、江苏省人民政府
           organization_url: http://www.cnsoftbei.com/
-          title: '第十一届中国软件杯全国三等奖'
+          title: 第十一届中国软件杯全国三等奖
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
