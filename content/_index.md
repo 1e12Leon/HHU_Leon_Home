@@ -102,6 +102,14 @@ sections:
         folders:
           - publication
         exclude_featured: true
+      items:
+        - title: 
+          date_start: '2021-05-01'
+          description: ''
+          organization: CCBR2023
+          organization_url: https://ccbr99.cn/
+          title: 'Single Sample Face Recognition Based on Identity-Attribute Disentanglement and Adversarial Feature Augmentation'
+          url: '' 
     design:
       columns: '2'
       view: citation
